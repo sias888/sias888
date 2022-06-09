@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Irteza! I'm a Mathematical Sciences (MASC) student at the University of British Columbia. 
+- 👋 Hi, I’m Irteza! I'm a 3rd year Mathematical Sciences (MASC) student at the University of British Columbia. 
 - 👀 I’m interested in using and polishing up my Java and C++/# skills in a software engineering or game development position.
 - 📫 You can reach me through my email: syedirtezashamsi@gmail.com
 
