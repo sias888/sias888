@@ -1,4 +1,4 @@
-Hey there, I'm Irteza. I'm a 4th year Mathematical Sciences student at the University of British Columbia. Mathematical Sciences is a joint degree offered by UBC's Math, CPSC, and Stats departments and features coursework in all three fields. I'm based in Calgary and Vancouver, but am currently in Osaka, Japan on a exchange program with Osaka University.
+Hey there, I'm Irteza. I'm a 4th year Mathematical Sciences student at the University of British Columbia. Mathematical Sciences is a joint degree offered by UBC's Math, CPSC, and Stats departments and features coursework in all three fields. I'm based in Calgary and Vancouver.
 
 My interests are primarily in Software Development and Game Development. You can reach me with my email syedirtezashamsi@gmail.com
 
